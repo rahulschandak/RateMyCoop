@@ -1,7 +1,15 @@
 # RateMyCoop
 Designed an interactive and informative mobile application using Axure RP implementing core design principles and HCI life cycle,  from ideation to delivery, enabling students to share their internship experiences.
 
-Created wireframes, conducted formative & heuristic evaluations, usability tests, summative evaluations, and iterations to complete the design using Axure RP 10. Results included a System Usability Score of 87.5
+Created wireframes, and conducted formative & heuristic evaluations, usability tests, summative evaluations, and iterations to complete the design using Axure RP 10. Results included a System Usability Score of 87.5
+
+Design link: https://u008xz.axshare.com/
+
+## Credentials:
+
+Username: user or User
+
+Password: 1234
 
 https://github.com/rahulschandak/RateMyCoop/assets/118782915/193142fb-d668-4ed5-992b-cf7b21b28ac3
 
